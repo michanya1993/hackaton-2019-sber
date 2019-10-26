@@ -1,0 +1,246 @@
+ws://172.30.9.50:8080/race
+WEB server is listening on 3011
+WS-TO Send to srv our team
+WS-FROM  Set token b01c24466bb1753d0f49c570226d4422
+WS-FROM Set cars [ 'sb0' ]
+API-TO Send to API cars =  1
+API-FROM recive cars OK
+WS-FROM Set routes =  820
+WS-FROM Set points =  41
+WS-FROM Set traffic =  820
+We have data for graph
+Created new graph
+API-TO Send to graph
+API-FROM recive graph OK
+WEB-REST Get car=sb0, point=15
+WS-TO send goto cnt =  1
+WS-FROM Get one car cnt =  1
+{ point: 15, car: 'sb0', carsum: 475949, duration: '31.19' }
+API-TO Send to API cars =  1
+API-FROM recive cars OK
+WS-FROM Set traffic =  820
+We have data for graph
+Created new graph
+API-TO Send to graph
+API-FROM recive graph OK
+WEB-REST Get car=sb0, point=14
+WS-TO send goto cnt =  2
+WS-FROM Get one car cnt =  2
+{ point: 14, car: 'sb0', carsum: 861754, duration: '36.96' }
+API-TO Send to API cars =  1
+API-FROM recive cars OK
+WS-FROM Set traffic =  820
+We have data for graph
+Created new graph
+API-TO Send to graph
+API-FROM recive graph OK
+WEB-REST Get car=sb0, point=19
+WS-TO send goto cnt =  3
+WS-FROM Get one car cnt =  3
+{ point: 19, car: 'sb0', carsum: 988265, duration: '59.00' }
+API-TO Send to API cars =  1
+WS-FROM Set traffic =  820
+We have data for graph
+Created new graph
+API-TO Send to graph
+API-FROM recive cars OK
+API-FROM recive graph OK
+WEB-REST Get car=sb0, point=1
+WS-TO send goto cnt =  4
+WS-FROM Get teamsum  988265
+WS-FROM Get one car cnt =  4
+{ point: 1, car: 'sb0', carsum: 0, duration: '79.11' }
+API-TO Send to API cars =  1
+API-FROM recive cars OK
+WS-FROM Set traffic =  820
+We have data for graph
+Created new graph
+API-TO Send to graph
+API-FROM recive graph OK
+WEB-REST Get car=sb0, point=26
+WS-TO send goto cnt =  5
+WS-FROM Get one car cnt =  5
+{ point: 26, car: 'sb0', carsum: 209388, duration: '95.36' }
+API-TO Send to API cars =  1
+WS-FROM Set traffic =  820
+We have data for graph
+Created new graph
+API-TO Send to graph
+API-FROM recive cars OK
+API-FROM recive graph OK
+WEB-REST Get car=sb0, point=24
+WS-TO send goto cnt =  6
+WS-FROM Get one car cnt =  6
+{ point: 24, car: 'sb0', carsum: 296900, duration: '107.53' }
+API-TO Send to API cars =  1
+API-FROM recive cars OK
+WS-FROM Set traffic =  820
+We have data for graph
+Created new graph
+API-TO Send to graph
+API-FROM recive graph OK
+WEB-REST Get car=sb0, point=23
+WS-TO send goto cnt =  7
+WS-FROM Get one car cnt =  7
+{ point: 23, car: 'sb0', carsum: 835302, duration: '115.36' }
+API-TO Send to API cars =  1
+API-FROM recive cars OK
+WS-FROM Set traffic =  820
+We have data for graph
+Created new graph
+API-TO Send to graph
+API-FROM recive graph OK
+WEB-REST Get car=sb0, point=21
+WS-TO send goto cnt =  8
+WS-FROM Get one car cnt =  8
+{ point: 21, car: 'sb0', carsum: 991059, duration: '123.03' }
+API-TO Send to API cars =  1
+API-FROM recive cars OK
+WS-FROM Set traffic =  820
+We have data for graph
+Created new graph
+API-TO Send to graph
+API-FROM recive graph OK
+WEB-REST Get car=sb0, point=1
+WS-TO send goto cnt =  9
+WS-FROM Get teamsum  1979324
+WS-FROM Get one car cnt =  9
+{ point: 1, car: 'sb0', carsum: 0, duration: '142.59' }
+API-TO Send to API cars =  1
+API-FROM recive cars OK
+WS-FROM Set traffic =  820
+We have data for graph
+Created new graph
+API-TO Send to graph
+API-FROM recive graph OK
+WEB-REST Get car=sb0, point=22
+WS-TO send goto cnt =  10
+WS-FROM Get one car cnt =  10
+{ point: 22, car: 'sb0', carsum: 236580, duration: '156.39' }
+API-TO Send to API cars =  1
+WS-FROM Set traffic =  820
+We have data for graph
+Created new graph
+API-TO Send to graph
+API-FROM recive cars OK
+API-FROM recive graph OK
+WEB-REST Get car=sb0, point=17
+WS-TO send goto cnt =  11
+WS-FROM Get one car cnt =  11
+{ point: 17, car: 'sb0', carsum: 577365, duration: '166.48' }
+API-TO Send to API cars =  1
+API-FROM recive cars OK
+WS-FROM Set traffic =  820
+We have data for graph
+Created new graph
+API-TO Send to graph
+API-FROM recive graph OK
+WEB-REST Get car=sb0, point=18
+WS-TO send goto cnt =  12
+WS-FROM Get one car cnt =  12
+{ point: 18, car: 'sb0', carsum: 979733, duration: '172.24' }
+API-TO Send to API cars =  1
+API-FROM recive cars OK
+WS-FROM Set traffic =  820
+We have data for graph
+Created new graph
+API-TO Send to graph
+API-FROM recive graph OK
+WEB-REST Get car=sb0, point=1
+WS-TO send goto cnt =  13
+WS-FROM Get teamsum  2959057
+WS-FROM Get one car cnt =  13
+{ point: 1, car: 'sb0', carsum: 0, duration: '198.95' }
+API-TO Send to API cars =  1
+API-FROM recive cars OK
+WS-FROM Set traffic =  820
+We have data for graph
+Created new graph
+API-TO Send to graph
+API-FROM recive graph OK
+WEB-REST Get car=sb0, point=27
+WS-TO send goto cnt =  14
+WS-FROM Get one car cnt =  14
+{ point: 27, car: 'sb0', carsum: 451705, duration: '216.56' }
+API-TO Send to API cars =  1
+API-FROM recive cars OK
+WS-FROM Set traffic =  820
+We have data for graph
+Created new graph
+API-TO Send to graph
+API-FROM recive graph OK
+WEB-REST Get car=sb0, point=25
+WS-TO send goto cnt =  15
+WS-FROM Get one car cnt =  15
+{ point: 25, car: 'sb0', carsum: 947383, duration: '221.86' }
+API-TO Send to API cars =  1
+API-FROM recive cars OK
+WS-FROM Set traffic =  820
+We have data for graph
+Created new graph
+API-TO Send to graph
+API-FROM recive graph OK
+WEB-REST Get car=sb0, point=1
+WS-TO send goto cnt =  16
+WS-FROM Get teamsum  3 906 440
+WS-FROM Get one car cnt =  16
+{ point: 1, car: 'sb0', carsum: 0, duration: '235.06' }
+API-TO Send to API cars =  1
+API-FROM recive cars OK
+WS-FROM Set traffic =  820
+We have data for graph
+Created new graph
+API-TO Send to graph
+API-FROM recive graph OK
+WEB-REST Get car=sb0, point=5
+WS-TO send goto cnt =  17
+WS-FROM Get one car cnt =  17
+{ point: 5, car: 'sb0', carsum: 489205, duration: '260.25' }
+API-TO Send to API cars =  1
+API-FROM recive cars OK
+WS-FROM Set traffic =  820
+We have data for graph
+Created new graph
+API-TO Send to graph
+API-FROM recive graph OK
+WEB-REST Get car=sb0, point=3
+WS-TO send goto cnt =  18
+WS-FROM Get one car cnt =  18
+{ point: 3, car: 'sb0', carsum: 966170, duration: '275.37' }
+API-TO Send to API cars =  1
+API-FROM recive cars OK
+WS-FROM Set traffic =  820
+We have data for graph
+Created new graph
+API-TO Send to graph
+API-FROM recive graph OK
+WEB-REST Get car=sb0, point=1
+WS-TO send goto cnt =  19
+WS-FROM Get teamsum  4 872 610
+WS-FROM Get one car cnt =  19
+{ point: 1, car: 'sb0', carsum: 0, duration: '294.50' }
+API-TO Send to API cars =  1
+API-FROM recive cars OK
+WS-FROM Set traffic =  820
+We have data for graph
+Created new graph
+API-TO Send to graph
+API-FROM recive graph OK
+WEB-REST Get car=sb0, point=28
+WS-TO send goto cnt =  20
+WS-FROM Get teamsum  4 872 610
+WS-FROM WTF ?
+{ end: true }
+WS-FROM Get one car cnt =  20
+{ point: 28, car: 'sb0', carsum: 367426, duration: '313.60' }
+API-TO Send to API cars =  1
+API-FROM recive cars OK
+WS-FROM Set traffic =  820
+We have data for graph
+Created new graph
+API-TO Send to graph
+API-FROM recive graph OK
+WEB-REST Get car=sb0, point=31
+WS-TO send goto cnt =  21
+WS-FROM WTF ?
+{ ErrorMessage: 'not registered or false start' }
